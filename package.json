@@ -8,6 +8,8 @@
     "@types/react": "16.8.20",
     "@types/react-dom": "16.8.4",
     "folktale": "^2.3.2",
+    "mobx": "^5.10.1",
+    "mobx-react": "^6.0.3",
     "rambda": "^2.11.1",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
